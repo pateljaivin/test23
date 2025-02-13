@@ -139,7 +139,7 @@ body {
           hsl(150 80% 20% / 0.3) 0%,
           hsl(170 60% 10% / 0.1) 100%
       ),
-      hsl(231, 32%, 29%) url("cover.jpg") 50% / cover;
+      hsl(231, 32%, 29%) url("https://imgcdn.stablediffusionweb.com/2024/3/15/cfc78407-f968-4dee-a556-c891425fe5b4.jpg") 50% / cover;
   color: hsl(0, 100%, 30%); /* Dark red text color for cover page */
 }
 
@@ -388,7 +388,7 @@ No challenge is too big for you, and no goal is out of reach. You inspire those 
           </p>
         </div>
         <div class="back">
-          <img src="2.jpg" alt="Img 1" />
+          <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLp30AseFv3PXdOu0zLCuE3iMSNBqoEYOgSeeiFKQFzau65cWE" alt="Img 1" />
         </div>
       </div>
       <!--5th page-->
